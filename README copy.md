@@ -1,0 +1,1 @@
+•	Buat migration products sesuai dengan field di atas
